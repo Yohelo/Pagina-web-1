@@ -30,7 +30,7 @@ p {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: blue;
+  background-color: lightgrey;
 }
 
 li.dropdown {
@@ -59,4 +59,8 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+img:hover {
+  opacity: 0.5;
+  outline: thick ridge white; 
 }
