@@ -9,6 +9,7 @@ ul {
  overflow: hidden;
  background-color: #333;
  width: 98.8%;
+ font-family: "Copperplate", Fantasy;
 }
 li {
  float: left;
