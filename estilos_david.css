@@ -27,7 +27,7 @@ p {
  margin-right: 130;
 }
 li a:hover, .dropdown:hover .dropbtn {
- background-color: blue;
+ background-color: lightgrey;
 }
 li.dropdown {
  display: inline-block;
