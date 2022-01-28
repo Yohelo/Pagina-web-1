@@ -1,5 +1,6 @@
 body {
-font-family: Ms Sans Serif, Sans-serif;
+  background: url("images/background.jpg");
+    font-family: Ms Sans Serif, Sans-serif;
 }
 ul {
  list-style-type: none;
