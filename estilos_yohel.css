@@ -67,6 +67,7 @@ h1.portada{
 a.tres{
   font-family: Fantasy;
   text-align: right;
+  padding:30px
 }
 
 img.portada{
@@ -108,7 +109,7 @@ table{
 margin:auto;
 }
 
-tr:hover {background-color: blue;}
+tr.gris:hover {background-color: blue;}
 
 th.contenido{
 	Font-family: MS Sans Serif, sans-serif;
@@ -119,3 +120,5 @@ th.izquierda{
 	text-align: left;
 	padding: 10px
 }
+
+table, td, th.segunda{border: none;}
