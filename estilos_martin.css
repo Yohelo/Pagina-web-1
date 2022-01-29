@@ -1,5 +1,5 @@
-body{
-	background-image: url("https://github.com/Yohelo/Pagina-web-1/blob/gh-pages/images/background.jpg?raw=true");
+body {
+	background-image: url("https://raw.githubusercontent.com/Yohelo/Pagina-web-1/gh-pages/images/background.jpg");
 	font-family: MS Sans Serif, sans-serif;
 }
 ul {
@@ -89,4 +89,4 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-tr:hover {background-color: #FCD263;}
+tr:hover {background-color: #F2F052;}
