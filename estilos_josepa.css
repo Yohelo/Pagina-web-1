@@ -30,7 +30,7 @@ p {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: lightgrey;
+  background-color: blue;
 }
 
 li.dropdown {
