@@ -92,5 +92,7 @@ th, td {
 tr:hover {background-color: #F2F052;}
 
 p{
-  padding: 20%; 
+  margin-top: 50;
+  margin-left: 130;
+  margin-right: 130;
 }
