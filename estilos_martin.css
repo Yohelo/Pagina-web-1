@@ -90,3 +90,7 @@ th, td {
 }
 
 tr:hover {background-color: #F2F052;}
+
+p{
+  padding: 20%; 
+}
